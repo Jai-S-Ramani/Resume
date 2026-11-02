@@ -35,8 +35,9 @@
 #show list: set block(above: 2.5pt, below: 0pt)
 
 #let name = "Jai S Ramani"
-#let role = "AI & Machine Learning Student"
-#let focus = "Aspiring ML Engineer & Data Analyst"
+#let release_lines = read("release-info.txt").split("\n").map(l => l.trim()).filter(l => l.len() > 0)
+#let role = release_lines.at(0)
+#let focus = if release_lines.len() > 1 { release_lines.at(1) } else { "" }
 
 #set document(
   title: name + " - " + role + " Resume",
@@ -47,7 +48,9 @@
   #text(size: 21pt, weight: "bold")[#name] \
   #v(2.5pt)
   #text(size: 10.2pt, weight: "bold")[#role]
-  #text(size: 10.2pt)[ | #focus] \
+  #if focus != "" [
+    #text(size: 10.2pt)[ | #focus]
+  ] \
   #v(3.5pt)
   #text(size: 8.3pt)[
     #location ·
