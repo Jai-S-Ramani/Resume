@@ -1,0 +1,8 @@
+*.pdf
+*.html
+resume-page-*.png
+build/
+.DS_Store
+agent.md
+__agent__/
+.claude/
