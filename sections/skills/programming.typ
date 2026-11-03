@@ -1,1 +1,1 @@
-*Programming Languages:* Python, C/C++, Java, JavaScript, SQL \
+*Programming Languages:* Python, SQL, Java, JavaScript \

@@ -1,1 +1,1 @@
-*Databases:* SQL (SQLite, PostgreSQL), MongoDB Atlas, Supabase, Mongoose \
+*Databases:* SQL (SQLite, PostgreSQL), MongoDB Atlas, Supabase \
