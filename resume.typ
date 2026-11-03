@@ -15,12 +15,12 @@
 )
 #set par(
   justify: false,
-  leading: 0.60em,
-  spacing: 3.2pt,
+  leading: 0.58em,
+  spacing: 3.5pt,
 )
 #set block(above: 2pt, below: 2pt)
 #set heading(numbering: none)
-#set list(indent: 0pt, body-indent: 10pt, spacing: 3.2pt)
+#set list(indent: 0pt, body-indent: 10pt, spacing: 3.5pt)
 
 #show link: set text(fill: black)
 #show heading.where(level: 2): set text(size: 10.8pt, weight: "bold", tracking: 0.04em)
@@ -32,7 +32,7 @@
   stroke: (bottom: 0.5pt),
 )
 #show list: set list(tight: false)
-#show list: set block(above: 2.5pt, below: 0pt)
+#show list: set block(above: 3.5pt, below: 0pt)
 
 #let name = "Jai S Ramani"
 #let release_lines = read("release-info.txt").split("\n").map(l => l.trim()).filter(l => l.len() > 0)

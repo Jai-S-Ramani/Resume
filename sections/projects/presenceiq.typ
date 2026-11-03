@@ -2,7 +2,7 @@
   #grid(
     columns: (1fr, auto),
     column-gutter: 8pt,
-    [#text(weight: "bold")[PresenceIQ — AI Attendance System] · #text(size: 9.1pt, fill: rgb("#555555"))[#emph[Django REST, React, MongoDB, OpenCV]]],
+    [#text(weight: "bold")[PresenceIQ — AI Attendance System] · #text(size: 8.8pt, fill: rgb("#555555"))[#emph[Django REST, React, MongoDB, OpenCV]]],
     [#link("https://github.com/Jai-S-Ramani/PresenceIQ-AI-Driven-Web-Based-Automated-Attendance-System")[_GitHub_]],
   )
   - Built an automated AI facial recognition attendance platform with *Django REST*, *React*, *OpenCV*, and *InsightFace*, implementing role-based access control (RBAC) across 4 user tiers.

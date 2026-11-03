@@ -2,7 +2,7 @@
   #grid(
     columns: (1fr, auto),
     column-gutter: 8pt,
-    [#text(weight: "bold")[PricePilot — E-Commerce Price Intelligence & Arbitrage Platform] · #text(size: 8.8pt, fill: rgb("#555555"))[#emph[Python, Flask, SQLite, Pandas, Docker, Pytest]]],
+    [#text(weight: "bold")[PricePilot — Price Intelligence & Arbitrage Platform] · #text(size: 8.8pt, fill: rgb("#555555"))[#emph[Python, Flask, SQLite, Pandas, Docker]]],
     [#link("https://github.com/Jai-S-Ramani/PricePilot")[_GitHub_]],
   )
   - Architected an end-to-end price intelligence & arbitrage platform tracking time-series product data across *5 Amazon regions* and benchmarking prices against *18 retail marketplaces* (Flipkart, Croma, Blinkit, Walmart).
