@@ -1,1 +1,1 @@
-*Tools & DevOps:* Docker, Nginx, Playwright, Supertest, Pytest, Power BI, Tableau, Advanced Excel, Git, GitHub
+*Tools & Platforms:* Excel, Power BI, Tableau, GitHub

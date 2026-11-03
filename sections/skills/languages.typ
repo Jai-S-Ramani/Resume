@@ -1,1 +1,1 @@
-*Programming Languages:* Python, C/C++, Java, SQL, JavaScript \
+*Languages:* English, Hindi, Gujarati, Kannada \
