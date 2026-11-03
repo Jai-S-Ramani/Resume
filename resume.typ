@@ -66,10 +66,9 @@
 == SKILLS
 #include "sections/skills/database.typ"
 #include "sections/skills/frameworks.typ"
-#include "sections/skills/languages.typ"
 #include "sections/skills/programming.typ"
-#include "sections/skills/soft-skills.typ"
 #include "sections/skills/tools.typ"
+#include "sections/skills/soft-skills.typ"
 
 == PROJECTS
 #include "sections/projects/pricepilot.typ"
@@ -80,3 +79,6 @@
 #include "sections/education/btech.typ"
 #v(2pt)
 #include "sections/education/higher-school.typ"
+
+== LANGUAGES
+#include "sections/misc/languages.typ"

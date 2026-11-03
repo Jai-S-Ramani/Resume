@@ -1,1 +1,1 @@
-*Soft Skills:* Communication, Teamwork, Problem Solving, Adaptability \
+*Soft Skills:* Communication, Teamwork, Problem Solving, Adaptability
