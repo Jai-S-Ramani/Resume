@@ -5,7 +5,9 @@ High-performance ATS-optimized resume configured in [Typst](https://typst.app/).
 ## 📄 Output
 
 - **PDF**: [`Jai_S_Ramani_Resume.pdf`](./Jai_S_Ramani_Resume.pdf)
-- **Preview**: [`preview.png`](./preview.png)
+- **Preview**:
+
+![Jai S Ramani Resume Preview](./resume-preview.png)
 
 ## 🚀 Build Instructions
 

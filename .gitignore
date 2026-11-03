@@ -1,4 +1,5 @@
 *.pdf
+!Jai_S_Ramani_Resume.pdf
 *.html
 resume-page-*.png
 build/
