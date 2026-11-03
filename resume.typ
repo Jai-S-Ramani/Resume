@@ -10,17 +10,17 @@
 )
 #set text(
   font: "New Computer Modern",
-  size: 9.4pt,
+  size: 9.5pt,
   lang: "en",
 )
 #set par(
   justify: false,
-  leading: 0.54em,
-  spacing: 2.5pt,
+  leading: 0.60em,
+  spacing: 3.2pt,
 )
 #set block(above: 2pt, below: 2pt)
 #set heading(numbering: none)
-#set list(indent: 0pt, body-indent: 9pt, spacing: 2.8pt)
+#set list(indent: 0pt, body-indent: 10pt, spacing: 3.2pt)
 
 #show link: set text(fill: black)
 #show heading.where(level: 2): set text(size: 10.8pt, weight: "bold", tracking: 0.04em)
